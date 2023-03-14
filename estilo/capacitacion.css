@@ -1,0 +1,17 @@
+table{
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+#xd{
+   text-align: center;
+    background-color: red;
+}
+.dpi1{
+    font-size: 30px;
+}
+.dpi{
+    font-size: 40px;
+}
